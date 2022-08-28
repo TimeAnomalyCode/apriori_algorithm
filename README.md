@@ -1,5 +1,4 @@
 # apriori_algorithm
-___________________
 
 This program was made to understand apriori algorithm in c++.
 
